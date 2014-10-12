@@ -5,6 +5,7 @@
 	<artifactId>com.metalgrei.angular</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<!-- Esto es una prueba -->
 	<modules>
 		<module>com.metalgrei.angular.rest</module>
 		<module>com.metalgrei.angular.core</module>
